@@ -38,8 +38,8 @@ type Msg struct {
 func Produce(body string){
 	Topic:="stowage_test"
 	URL:="http://publictest-rest.ons.aliyun.com"
-	Ak:="LTAIwxFn7egYfvra"
-	Sk:="nBfpqo4StRZv9JreRsLQpFaZKKUT1h"
+	Ak:="ak"
+	Sk:="sk"
 	ProducerID:="PID_calculation"
 
 	for i:=0;i<1;i++{
