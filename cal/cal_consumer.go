@@ -11,8 +11,8 @@ import (
 func Consume() string{
 	Topic:="gotest"
 	URL:="http://publictest-rest.ons.aliyun.com"
-	Ak:="LTAIIiC8uJ5i1AyF"
-	Sk:="WPxceD95LVuEAt1oBjZ8zMnVvk5fmW"
+	Ak:="ak"
+	Sk:="sk"
 	ConsumerID:="CID_goo"
 	newline := "\n"
 
